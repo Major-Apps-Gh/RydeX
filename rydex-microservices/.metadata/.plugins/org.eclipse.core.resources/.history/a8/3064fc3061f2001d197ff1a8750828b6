@@ -1,0 +1,5 @@
+spring.application.name=user-service
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/user-service?useSSL=false&createDatabaseIfNotExist=false&allowPublicKeyRetrieval=true
+spring.datasource.username=rydex
+spring.datasource.password=rydex456
