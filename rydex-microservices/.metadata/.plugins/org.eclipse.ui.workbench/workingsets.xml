@@ -2,5 +2,23 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684073124404_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684073124413_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684324014549_3" label="rydex-workingset" name="rydex-workingset"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684329769951_4" label="RydeX" name="RydeX">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-commons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloud-config-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloud-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-registry" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ride-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/user-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/driver-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/adminer-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/payment-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/notification-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/review-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/provider-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/schedule-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/support-service" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1684073192650_2" label="Window Working Set" name="Aggregate for window 1684068867185"/>
+<mruList name="rydex-workingset"/>
 </workingSetManager>
